@@ -1,0 +1,242 @@
+{
+	"xj2tpkpsxhxaxcz0": {
+		"definition": "root_element_spell_power",
+		"x": 0,
+		"y": -64,
+		"root": true
+	},
+	"5dap8yhvfb1e8mi8": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"6ze9ipbt1mrumugx": {
+		"definition": "root_magic_resistance",
+		"x": 64,
+		"y": 0,
+		"root": true
+	},
+	"j56m37v7gyn9alp8": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"26virfihnl973y8f": {
+		"definition": "spellpower",
+		"x": 64,
+		"y": -192,
+		"root": false
+	},
+	"l9snd4mys2wfmmib": {
+		"definition": "spellpower",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"ikrsdefg79t4dm8l": {
+		"definition": "elementpower",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"96ath55rn8l4qsm1": {
+		"definition": "elementpower",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"05ia9owinkfwjctq": {
+		"definition": "cooldown",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"goppvhm8jwjg7ge4": {
+		"definition": "elementprot",
+		"x": 192,
+		"y": -64,
+		"root": false
+	},
+	"82xn548b8gmz3bql": {
+		"definition": "cooldown",
+		"x": 192,
+		"y": 64,
+		"root": false
+	},
+	"rmczh93a897kqjh2": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": 192,
+		"root": false
+	},
+	"qrpsexj9irgsa691": {
+		"definition": "elementprot",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"x7e32lovnf306fm0": {
+		"definition": "elementprot",
+		"x": -64,
+		"y": 256,
+		"root": false
+	},
+	"gv8frvey5odb2sn0": {
+		"definition": "elementprot",
+		"x": 64,
+		"y": 256,
+		"root": false
+	},
+	"qe9h9dnqesxqul0q": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"q1efw1yyimrknjmj": {
+		"definition": "elementpower",
+		"x": 64,
+		"y": -256,
+		"root": false
+	},
+	"ingbcnykjcu5s5ul": {
+		"definition": "elementpower",
+		"x": -64,
+		"y": -256,
+		"root": false
+	},
+	"8vvdk2iz1zsym9k4": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -384,
+		"root": false
+	},
+	"tr2sohytxoal4xfz": {
+		"definition": "cooldown",
+		"x": -192,
+		"y": 64,
+		"root": false
+	},
+	"74lq3lypcruz889d": {
+		"definition": "elementprot",
+		"x": -256,
+		"y": 64,
+		"root": false
+	},
+	"8mv29aj5p41q8tp7": {
+		"definition": "maxmana",
+		"x": -256,
+		"y": -64,
+		"root": false
+	},
+	"a66rm6gsas3r1tkn": {
+		"definition": "elementpower",
+		"x": -192,
+		"y": -64,
+		"root": false
+	},
+	"92u40y4vf4upik19": {
+		"definition": "maxmana",
+		"x": -384,
+		"y": 0,
+		"root": false
+	},
+	"8g5s0i1399k306km": {
+		"definition": "maxmana",
+		"x": 256,
+		"y": -64,
+		"root": false
+	},
+	"fmqojskcvc0zs12z": {
+		"definition": "elementpower",
+		"x": 256,
+		"y": 64,
+		"root": false
+	},
+	"rssc29nz8diil8vi": {
+		"definition": "magicprot",
+		"x": 64,
+		"y": 192,
+		"root": false
+	},
+	"8ilxw66ti01nmdsx": {
+		"definition": "magicprot",
+		"x": -64,
+		"y": 192,
+		"root": false
+	},
+	"40su7em087qlm03i": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": 384,
+		"root": false
+	},
+	"8hlax4o1mumlt0kl": {
+		"definition": "root_spell_power",
+		"x": -64,
+		"y": 0,
+		"root": true
+	},
+	"by84zqhol27b3agu": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"l0m3oqyjqs4q81jk": {
+		"definition": "root_element_magic_resistance",
+		"x": 0,
+		"y": 64,
+		"root": true
+	},
+	"1xehtaxig163bb5r": {
+		"definition": "cooldown",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"niq0f6p08abyc2yl": {
+		"definition": "maxmana",
+		"x": 128,
+		"y": 128,
+		"root": false
+	},
+	"onbnrybj8h7ntlm4": {
+		"definition": "cooldown",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"4blaki77f6g0bgs7": {
+		"definition": "maxmana",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"5r3t9znn9as3cgd5": {
+		"definition": "spellpower",
+		"x": 256,
+		"y": -256,
+		"root": false
+	},
+	"iwjjgemqz1wnzhoo": {
+		"definition": "spellpower",
+		"x": -256,
+		"y": -256,
+		"root": false
+	},
+	"eih14te2oqwvn0v2": {
+		"definition": "magicprot",
+		"x": -256,
+		"y": 256,
+		"root": false
+	},
+	"bx6lwgtj2x7ab8p1": {
+		"definition": "magicprot",
+		"x": 256,
+		"y": 256,
+		"root": false
+	}
+}

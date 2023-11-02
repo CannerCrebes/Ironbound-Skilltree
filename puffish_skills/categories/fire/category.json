@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Fire",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/firetab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/firebg.png"
+}

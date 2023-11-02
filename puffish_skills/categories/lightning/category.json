@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Lightning",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/lightningtab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/lightningbg.png"
+}

@@ -1,0 +1,242 @@
+{
+	"jgmpmbd7hscutfei": {
+		"definition": "root_element_spell_power",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"1aukfdfmvwngmnwb": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"k2qmlsugtyqgtjs3": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"or6xjptxb34l3cb2": {
+		"definition": "elementpower",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"shhv975kqdr1qr5n": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": -256,
+		"root": false
+	},
+	"pmo0foo2a4eb5cro": {
+		"definition": "elementpower",
+		"x": -256,
+		"y": -256,
+		"root": false
+	},
+	"dlby6h6mozt6knih": {
+		"definition": "spellpower",
+		"x": -256,
+		"y": -320,
+		"root": false
+	},
+	"f1l4fbqumoeoofbr": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"64qgn2oyzn8jf9uu": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -448,
+		"root": false
+	},
+	"kq4907xny7z8kjo5": {
+		"definition": "spellpower",
+		"x": -64,
+		"y": -384,
+		"root": false
+	},
+	"aivdxrpvpgdi1nu0": {
+		"definition": "spellpower",
+		"x": 64,
+		"y": -384,
+		"root": false
+	},
+	"vlpcs1zrspflfm8b": {
+		"definition": "elementpower",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"j72u4xle1mx6pgot": {
+		"definition": "elementprot",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"u11sasj9y4ilsqpz": {
+		"definition": "elementpower",
+		"x": 192,
+		"y": -128,
+		"root": false
+	},
+	"5scldg4cib9x8rca": {
+		"definition": "magicprot",
+		"x": 256,
+		"y": -192,
+		"root": false
+	},
+	"ocuvt81ik9rn430q": {
+		"definition": "elementprot",
+		"x": 320,
+		"y": -128,
+		"root": false
+	},
+	"8yyhltqqoep9jyw9": {
+		"definition": "magicprot",
+		"x": 256,
+		"y": -64,
+		"root": false
+	},
+	"6tnwp2t06elrds0v": {
+		"definition": "elementpower",
+		"x": 448,
+		"y": -128,
+		"root": false
+	},
+	"305d29zqngkwmgnv": {
+		"definition": "cooldown",
+		"x": 448,
+		"y": 128,
+		"root": false
+	},
+	"43er50h67vhiug6z": {
+		"definition": "maxmana",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"xrsfw0clc0zghso2": {
+		"definition": "maxmana",
+		"x": 320,
+		"y": 64,
+		"root": false
+	},
+	"dz5k9jancbjc99b1": {
+		"definition": "maxmana",
+		"x": 256,
+		"y": 192,
+		"root": false
+	},
+	"icexdnka7uher17y": {
+		"definition": "maxmana",
+		"x": 192,
+		"y": 256,
+		"root": false
+	},
+	"344uvgwh0kg7f7ds": {
+		"definition": "cooldown",
+		"x": 192,
+		"y": 128,
+		"root": false
+	},
+	"clxsluzvge8p2v2f": {
+		"definition": "cooldown",
+		"x": 256,
+		"y": 128,
+		"root": false
+	},
+	"p55qmt9ytjir3tqu": {
+		"definition": "cooldown",
+		"x": 320,
+		"y": 128,
+		"root": false
+	},
+	"8tcs035tosm53m9v": {
+		"definition": "cooldown",
+		"x": 384,
+		"y": 128,
+		"root": false
+	},
+	"mws9qb98xq4c2aia": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": 64,
+		"root": false
+	},
+	"5jue8f0a537pmuus": {
+		"definition": "elementprot",
+		"x": -64,
+		"y": 64,
+		"root": false
+	},
+	"g6clwt8all1qu9hj": {
+		"definition": "magicprot",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"l7tjoeha4cx6itmm": {
+		"definition": "elementprot",
+		"x": -192,
+		"y": 64,
+		"root": false
+	},
+	"sf6k7aqi76gihe4j": {
+		"definition": "magicprot",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"x7dpz47o7k1kygcz": {
+		"definition": "elementpower",
+		"x": -256,
+		"y": 64,
+		"root": false
+	},
+	"odrw4xo9ffn48fj6": {
+		"definition": "elementprot",
+		"x": -256,
+		"y": 128,
+		"root": false
+	},
+	"79zdm4ang50ajkqa": {
+		"definition": "spellpower",
+		"x": -320,
+		"y": 128,
+		"root": false
+	},
+	"azp7qgx4w0pj914w": {
+		"definition": "elementprot",
+		"x": -352,
+		"y": 64,
+		"root": false
+	},
+	"dlnfxhd5csqhogr1": {
+		"definition": "elementprot",
+		"x": -352,
+		"y": 0,
+		"root": false
+	},
+	"t84zfjm7tmaz3t6g": {
+		"definition": "spellpower",
+		"x": -480,
+		"y": 0,
+		"root": false
+	},
+	"bbjddve16302h8h6": {
+		"definition": "maxmana",
+		"x": -576,
+		"y": 64,
+		"root": false
+	},
+	"wfgtjf0gl3dqinij": {
+		"definition": "elementpower",
+		"x": 64,
+		"y": -128,
+		"root": false
+	}
+}

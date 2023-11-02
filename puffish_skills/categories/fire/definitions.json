@@ -1,0 +1,636 @@
+{
+	"root_health+2": {
+		"title": "+1 Heart",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/root/fire.png",
+				"available": "textures/gui/frames/available/root/fire.png",
+				"excluded": "textures/gui/frames/excluded/root/fire.png"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "v2tlmzo2zbuvr0rg"
+		}
+	},
+	"root_fire_spell_power": {
+		"title": "+5% Fire Magic Power",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/root/fire.png",
+				"available": "textures/gui/frames/available/root/fire.png",
+				"excluded": "textures/gui/frames/excluded/root/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/power/fire.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:fire_spell_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "v2tlmzo2zbuvr0rg"
+		}
+	},
+	"root_spell_power": {
+		"title": "+5% Magic Power",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/root/fire.png",
+				"available": "textures/gui/frames/available/root/fire.png",
+				"excluded": "textures/gui/frames/excluded/root/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/power/basic.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "v2tlmzo2zbuvr0rg"
+		}
+	},
+	"root_fire_magic_resistance": {
+		"title": "+5% Fire Magic Resistance",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/root/fire.png",
+				"available": "textures/gui/frames/available/root/fire.png",
+				"excluded": "textures/gui/frames/excluded/root/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/resistance/fire.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:fire_magic_resist",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "v2tlmzo2zbuvr0rg"
+		}
+	},
+	"root_magic_resistance": {
+		"title": "+5% Magic Resistance",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/root/fire.png",
+				"available": "textures/gui/frames/available/root/fire.png",
+				"excluded": "textures/gui/frames/excluded/root/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/resistance/basic.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_resist",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "v2tlmzo2zbuvr0rg"
+		}
+	},
+	"root_resistance+1%": {
+		"title": "+1% Resistance",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "z4pdd7lz9jwklr1h"
+		}
+	},
+	"root_melee_damage+3%": {
+		"title": "+3% Melee Damage",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "8ucl3d5s6xf73h6p"
+		}
+	},
+	"root_ranged_damage+3%": {
+		"title": "+3% Ranged Damage",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.ranged_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pkzhihxhn62zdxcj"
+		}
+	},
+	"health+2": {
+		"title": "+1 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "p3104x3sjb3othfz"
+		}
+	},
+	"resistance+1%": {
+		"title": "+1% Resistance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3wsftt5xs1tziukl"
+		}
+	},
+	"melee_damage+3%": {
+		"title": "+3% Melee Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "2l0ppc1z3yl4nd10"
+		}
+	},
+	"ranged_damage+3%": {
+		"title": "+3% Ranged Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.ranged_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "woh0txtl78zbxnr7"
+		}
+	},
+	"attack_speed+5%": {
+		"title": "+5% Attack Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "jc05dh7ohi20o3rk"
+		}
+	},
+	"movement_speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "cdrusctmvyclf528"
+		}
+	},
+	"luck+0.25": {
+		"title": "+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "gzpch5ohjm7yclpi"
+		}
+	},
+	"stamina+5%": {
+		"title": "+5% Stamina",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3mvx93ms0d1hjxmh"
+		}
+	},
+	"healing+5%": {
+		"title": "+5% Healing",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "jbp9yz297ypnw42q"
+		}
+	},
+	"maxmana": {
+		"title": "+ Max mana",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/fire.png",
+				"available": "textures/gui/frames/available/fire.png",
+				"excluded": "textures/gui/frames/excluded/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/max_mana.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:max_mana",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0rfsywgaut4uhrwf"
+		}
+	},
+	"elementpower": {
+		"title": "+5% Fire Spell Power",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/fire.png",
+				"available": "textures/gui/frames/available/fire.png",
+				"excluded": "textures/gui/frames/excluded/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/power/fire.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:fire_spell_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "wwwec8r9qxoffxs8"
+		}
+	},
+	"spellpower": {
+		"title": "+5% Spell Power",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/fire.png",
+				"available": "textures/gui/frames/available/fire.png",
+				"excluded": "textures/gui/frames/excluded/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/power/basic.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "wwwec8r9qxoffxs8"
+		}
+	},
+	"cooldown": {
+		"title": "-5% cooldown",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/fire.png",
+				"available": "textures/gui/frames/available/fire.png",
+				"excluded": "textures/gui/frames/excluded/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/cooldown.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:cast_time_reduction",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "d66fndbupjgriuo0"
+		}
+	},
+	"elementprot": {
+		"title": "Element Resistance",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/fire.png",
+				"available": "textures/gui/frames/available/fire.png",
+				"excluded": "textures/gui/frames/excluded/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/resistance/fire.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:fire_magic_resist",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xekibtyhjd95gdd5"
+		}
+	},
+	"magicprot": {
+		"title": "Magic Resistance +5%",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/fire.png",
+				"available": "textures/gui/frames/available/fire.png",
+				"excluded": "textures/gui/frames/excluded/fire.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/resistance/basic.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_resist",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xekibtyhjd95gdd5"
+		}
+	},
+	"jump+5%": {
+		"title": "+5% Jump",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3fylz5y9ptcudcrv"
+		}
+	}
+}

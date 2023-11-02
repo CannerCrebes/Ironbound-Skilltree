@@ -1,0 +1,242 @@
+{
+	"2hki473ne0w4nd08": {
+		"definition": "root_element_spell_power",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"7mi4xp5hma2ikv4f": {
+		"definition": "elementprot",
+		"x": 64,
+		"y": 0,
+		"root": false
+	},
+	"m2b5fkq7g4cnd7ip": {
+		"definition": "elementpower",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"zk2ructhqd21mp1m": {
+		"definition": "maxmana",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"9164xk6rmk8xz4q6": {
+		"definition": "elementprot",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"ujiat0hlw2ol00ih": {
+		"definition": "elementpower",
+		"x": 256,
+		"y": 64,
+		"root": false
+	},
+	"32icryccojf42k8a": {
+		"definition": "maxmana",
+		"x": 256,
+		"y": -64,
+		"root": false
+	},
+	"e5qbytgi8klpec6r": {
+		"definition": "elementpower",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"a0prpt40c5eqmx9o": {
+		"definition": "cooldown",
+		"x": 256,
+		"y": 0,
+		"root": false
+	},
+	"2e72gl73rdcaqmyu": {
+		"definition": "elementprot",
+		"x": 320,
+		"y": -64,
+		"root": false
+	},
+	"da2vsi0u30tp3nrb": {
+		"definition": "elementprot",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"d9low3p6mirj27i7": {
+		"definition": "elementprot",
+		"x": 448,
+		"y": 64,
+		"root": false
+	},
+	"yyegoqnv1pw4xyj3": {
+		"definition": "magicprot",
+		"x": 448,
+		"y": -64,
+		"root": false
+	},
+	"asuo587f7vfrbxv0": {
+		"definition": "elementprot",
+		"x": 512,
+		"y": -128,
+		"root": false
+	},
+	"p4y9ouazslv619lh": {
+		"definition": "magicprot",
+		"x": 512,
+		"y": 128,
+		"root": false
+	},
+	"6xq54ubu1qr8do8i": {
+		"definition": "elementprot",
+		"x": 640,
+		"y": 128,
+		"root": false
+	},
+	"y6xecwyv1yebzyaq": {
+		"definition": "magicprot",
+		"x": 640,
+		"y": 64,
+		"root": false
+	},
+	"zafjzrww2s9ev7gj": {
+		"definition": "cooldown",
+		"x": 704,
+		"y": 128,
+		"root": false
+	},
+	"gzcrddlshk728axa": {
+		"definition": "elementprot",
+		"x": 576,
+		"y": -64,
+		"root": false
+	},
+	"bvrx8cmipj21gcza": {
+		"definition": "elementpower",
+		"x": 512,
+		"y": 0,
+		"root": false
+	},
+	"eggobvcvg312949o": {
+		"definition": "spellpower",
+		"x": 576,
+		"y": 64,
+		"root": false
+	},
+	"ccstcij2lyv8u77v": {
+		"definition": "cooldown",
+		"x": 576,
+		"y": 0,
+		"root": false
+	},
+	"6f7m9ymf4jifwely": {
+		"definition": "magicprot",
+		"x": 704,
+		"y": 0,
+		"root": false
+	},
+	"i44cz32ou29xtai5": {
+		"definition": "spellpower",
+		"x": 576,
+		"y": -128,
+		"root": false
+	},
+	"qrzg4ixpqhptbi0t": {
+		"definition": "spellpower",
+		"x": 704,
+		"y": -128,
+		"root": false
+	},
+	"ox6kblc2m1f0dhjy": {
+		"definition": "cooldown",
+		"x": 704,
+		"y": -64,
+		"root": false
+	},
+	"szkrk1uirpusvhjr": {
+		"definition": "maxmana",
+		"x": 768,
+		"y": 0,
+		"root": false
+	},
+	"9qmdsiy6gt3frl0j": {
+		"definition": "elementpower",
+		"x": 832,
+		"y": 0,
+		"root": false
+	},
+	"6wwuel53ps7zah0v": {
+		"definition": "elementpower",
+		"x": 768,
+		"y": 64,
+		"root": false
+	},
+	"idojztyuvlsnpcfn": {
+		"definition": "maxmana",
+		"x": 704,
+		"y": 64,
+		"root": false
+	},
+	"07w3vk9fre7d84iq": {
+		"definition": "elementpower",
+		"x": 896,
+		"y": 64,
+		"root": false
+	},
+	"gifk2zaq6am46dwa": {
+		"definition": "magicprot",
+		"x": 960,
+		"y": 0,
+		"root": false
+	},
+	"m0jidm6txrixty6n": {
+		"definition": "spellpower",
+		"x": 896,
+		"y": 0,
+		"root": false
+	},
+	"b7ue72fv46dkxl8e": {
+		"definition": "elementprot",
+		"x": 960,
+		"y": -64,
+		"root": false
+	},
+	"vmkgchinnpwl8nst": {
+		"definition": "elementpower",
+		"x": 1024,
+		"y": 0,
+		"root": false
+	},
+	"tq5abmt07nm3t643": {
+		"definition": "maxmana",
+		"x": 960,
+		"y": 64,
+		"root": false
+	},
+	"pk4vathssmdj02li": {
+		"definition": "elementprot",
+		"x": 1088,
+		"y": 64,
+		"root": false
+	},
+	"edt865droywe8f67": {
+		"definition": "spellpower",
+		"x": 1152,
+		"y": 0,
+		"root": false
+	},
+	"rft3bxtiyiy59y1l": {
+		"definition": "cooldown",
+		"x": 1088,
+		"y": -64,
+		"root": false
+	},
+	"irok25xq2925p5xd": {
+		"definition": "elementpower",
+		"x": 1216,
+		"y": 0,
+		"root": false
+	}
+}

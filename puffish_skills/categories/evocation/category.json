@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Evocation",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/evocationtab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/evocationbg.png"
+}

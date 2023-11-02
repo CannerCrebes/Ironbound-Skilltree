@@ -1,0 +1,18 @@
+{
+	"version": 1,
+
+	"show_warnings": true,
+
+	"categories": [
+		"combat",
+		"mining",
+		"fire",
+		"ice",
+		"lightning",
+		"nature",
+		"ender",
+		"blood",
+		"evocation",
+		"holy"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Holy",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/holytab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/holybg.png"
+}

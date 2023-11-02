@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Nature",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/naturetab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/naturebg.png"
+}

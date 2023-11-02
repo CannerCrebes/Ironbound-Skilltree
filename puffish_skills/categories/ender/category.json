@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Ender",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/endertab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/enderbg.png"
+}

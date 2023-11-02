@@ -1,0 +1,242 @@
+{
+	"7ozij4uc346pmapd": {
+		"definition": "root_element_spell_power",
+		"x": 0,
+		"y": 32,
+		"root": true
+	},
+	"ztqnn2cjzsj4ie6k": {
+		"definition": "cooldown",
+		"x": 32,
+		"y": 0,
+		"root": false
+	},
+	"t329cidlevl2ryd9": {
+		"definition": "spellpower",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"1xl9b7ru8ou5iav0": {
+		"definition": "magicprot",
+		"x": 0,
+		"y": -288,
+		"root": false
+	},
+	"dzqcghn32f4l4ojo": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -416,
+		"root": false
+	},
+	"8n7o5qiu0v3915ny": {
+		"definition": "spellpower",
+		"x": 64,
+		"y": -416,
+		"root": false
+	},
+	"wxmm2qkgj5z6fhfv": {
+		"definition": "spellpower",
+		"x": -64,
+		"y": -416,
+		"root": false
+	},
+	"kza2af1vqioysrcg": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -544,
+		"root": false
+	},
+	"7b7a64yu9oeeh8gi": {
+		"definition": "elementpower",
+		"x": 64,
+		"y": -480,
+		"root": false
+	},
+	"x1kmw8zsztt08sq9": {
+		"definition": "elementpower",
+		"x": -64,
+		"y": -480,
+		"root": false
+	},
+	"gb8qcpwk8fsdr69n": {
+		"definition": "elementprot",
+		"x": 64,
+		"y": -224,
+		"root": false
+	},
+	"l0h44mleralkdk0z": {
+		"definition": "elementpower",
+		"x": 128,
+		"y": -224,
+		"root": false
+	},
+	"adjmseixsibvz0ll": {
+		"definition": "magicprot",
+		"x": 128,
+		"y": -160,
+		"root": false
+	},
+	"5z0dhsrw98yslyg9": {
+		"definition": "elementprot",
+		"x": -64,
+		"y": -224,
+		"root": false
+	},
+	"5yuce8d39lqjlig0": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": -224,
+		"root": false
+	},
+	"791brn3t0nkcsjvi": {
+		"definition": "magicprot",
+		"x": -128,
+		"y": -160,
+		"root": false
+	},
+	"1lqtap09otggs23n": {
+		"definition": "elementprot",
+		"x": 64,
+		"y": -288,
+		"root": false
+	},
+	"xso0si33qp9ntlpo": {
+		"definition": "elementprot",
+		"x": -64,
+		"y": -288,
+		"root": false
+	},
+	"tmun8arjt9phe22y": {
+		"definition": "elementprot",
+		"x": 128,
+		"y": -352,
+		"root": false
+	},
+	"immmwng0xb9mmzvr": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": -352,
+		"root": false
+	},
+	"wfqlpw3osfrskdx3": {
+		"definition": "elementpower",
+		"x": 128,
+		"y": -288,
+		"root": false
+	},
+	"95lv1emn654cnm6p": {
+		"definition": "spellpower",
+		"x": 192,
+		"y": -352,
+		"root": false
+	},
+	"4f69upvtqjxkvg02": {
+		"definition": "elementpower",
+		"x": 256,
+		"y": -416,
+		"root": false
+	},
+	"7utfp7q0dfs85fzt": {
+		"definition": "cooldown",
+		"x": 192,
+		"y": -416,
+		"root": false
+	},
+	"h4ovr8mj8n9ij34p": {
+		"definition": "elementprot",
+		"x": 256,
+		"y": -352,
+		"root": false
+	},
+	"7xol74alqj6khgq4": {
+		"definition": "cooldown",
+		"x": 320,
+		"y": -352,
+		"root": false
+	},
+	"lfv9918umdazdpg5": {
+		"definition": "magicprot",
+		"x": 192,
+		"y": -224,
+		"root": false
+	},
+	"btsmip1tzzrx0z7e": {
+		"definition": "cooldown",
+		"x": 192,
+		"y": -160,
+		"root": false
+	},
+	"24kl8lki6b0xeq5e": {
+		"definition": "cooldown",
+		"x": 256,
+		"y": -224,
+		"root": false
+	},
+	"8kz8xdgxhqzvtp2s": {
+		"definition": "magicprot",
+		"x": -192,
+		"y": -224,
+		"root": false
+	},
+	"zkiu7lflbt09lq6e": {
+		"definition": "maxmana",
+		"x": -256,
+		"y": -224,
+		"root": false
+	},
+	"ua8cuoxmgjyxx53j": {
+		"definition": "maxmana",
+		"x": -192,
+		"y": -160,
+		"root": false
+	},
+	"97fhliu96ntr8fey": {
+		"definition": "elementpower",
+		"x": -128,
+		"y": -288,
+		"root": false
+	},
+	"8o8ijx1hibg3gwas": {
+		"definition": "spellpower",
+		"x": -192,
+		"y": -352,
+		"root": false
+	},
+	"6xi8c5l69wdbnz51": {
+		"definition": "elementprot",
+		"x": -256,
+		"y": -352,
+		"root": false
+	},
+	"f7uv0nki5vle6fnr": {
+		"definition": "elementpower",
+		"x": -256,
+		"y": -416,
+		"root": false
+	},
+	"h9302r8wgvj4fyce": {
+		"definition": "maxmana",
+		"x": -192,
+		"y": -416,
+		"root": false
+	},
+	"xo3s53lf9mmxppqu": {
+		"definition": "maxmana",
+		"x": -320,
+		"y": -352,
+		"root": false
+	},
+	"vkdimkkij0znkpmm": {
+		"definition": "maxmana",
+		"x": -32,
+		"y": 0,
+		"root": false
+	},
+	"b4belcnqml3cj78z": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -32,
+		"root": false
+	}
+}

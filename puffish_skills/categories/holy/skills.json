@@ -1,0 +1,242 @@
+{
+	"ra1glh1r9rss0k9i": {
+		"definition": "root_element_spell_power",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"r27jahjpfpsa130w": {
+		"definition": "cooldown",
+		"x": 64,
+		"y": 0,
+		"root": false
+	},
+	"nm3of9s5pvth61xy": {
+		"definition": "magicprot",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"kjh9tpstjw5jznkr": {
+		"definition": "cooldown",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"jkrg4tq2sd3e8ysu": {
+		"definition": "elementpower",
+		"x": 256,
+		"y": 0,
+		"root": false
+	},
+	"q6uz4me6nlqypicv": {
+		"definition": "cooldown",
+		"x": -64,
+		"y": 0,
+		"root": false
+	},
+	"tui2r07vrwa6zgkt": {
+		"definition": "magicprot",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"e2r906yedh9fmqdf": {
+		"definition": "cooldown",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"evvk5zb6st474wsm": {
+		"definition": "elementpower",
+		"x": -256,
+		"y": 0,
+		"root": false
+	},
+	"yvv0hqh6ya263y9k": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -64,
+		"root": false
+	},
+	"2ntrtvy1s7l3rr21": {
+		"definition": "magicprot",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"mfsvnvpq2q1wecsx": {
+		"definition": "cooldown",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"f6u2tp2mt4sa6c8b": {
+		"definition": "spellpower",
+		"x": 0,
+		"y": -256,
+		"root": false
+	},
+	"o5ww32omo6n82g6n": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"a7e2h65sjlxa5x8j": {
+		"definition": "maxmana",
+		"x": 0,
+		"y": -384,
+		"root": false
+	},
+	"w6dmnt8wf1qo0hxt": {
+		"definition": "elementpower",
+		"x": 0,
+		"y": -448,
+		"root": false
+	},
+	"qgxowc3dhod3cq8x": {
+		"definition": "maxmana",
+		"x": 64,
+		"y": -320,
+		"root": false
+	},
+	"k7zx2oh5xarh2qkp": {
+		"definition": "elementprot",
+		"x": 64,
+		"y": -256,
+		"root": false
+	},
+	"bof9qm93xjpjjuzp": {
+		"definition": "elementpower",
+		"x": 64,
+		"y": -192,
+		"root": false
+	},
+	"2v89cin96d1czm93": {
+		"definition": "spellpower",
+		"x": 64,
+		"y": -128,
+		"root": false
+	},
+	"g1ovswq3gweu8kcb": {
+		"definition": "magicprot",
+		"x": 64,
+		"y": -64,
+		"root": false
+	},
+	"bmbsyovp9jicestf": {
+		"definition": "spellpower",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"x8kru1kzsgc8uju2": {
+		"definition": "elementpower",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"uc8atu5px2y7nng6": {
+		"definition": "elementpower",
+		"x": 192,
+		"y": -64,
+		"root": false
+	},
+	"38abj8blqk3e1kvo": {
+		"definition": "elementprot",
+		"x": 256,
+		"y": -64,
+		"root": false
+	},
+	"2bbu6h3pdd40kiv6": {
+		"definition": "elementprot",
+		"x": 192,
+		"y": -128,
+		"root": false
+	},
+	"m31bg81np4vxcsw6": {
+		"definition": "elementprot",
+		"x": 128,
+		"y": -192,
+		"root": false
+	},
+	"krmce12sjc9f362w": {
+		"definition": "elementpower",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"7cjxn558fkns5b6b": {
+		"definition": "spellpower",
+		"x": -64,
+		"y": -128,
+		"root": false
+	},
+	"bi9wyalbpj1qkq60": {
+		"definition": "magicprot",
+		"x": -64,
+		"y": -64,
+		"root": false
+	},
+	"pvpfuwakkc6xmkpi": {
+		"definition": "spellpower",
+		"x": -128,
+		"y": -64,
+		"root": false
+	},
+	"wpt48srx5nzlj90h": {
+		"definition": "elementpower",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"ktbhd3qppuq6uijd": {
+		"definition": "elementprot",
+		"x": -192,
+		"y": -128,
+		"root": false
+	},
+	"7ew3vk4il1158hz5": {
+		"definition": "elementpower",
+		"x": -192,
+		"y": -64,
+		"root": false
+	},
+	"bfb5vcumyb3l4eui": {
+		"definition": "elementprot",
+		"x": -256,
+		"y": -64,
+		"root": false
+	},
+	"p210lmwp4xpa6s8b": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": -192,
+		"root": false
+	},
+	"v552xkm6eblkzcs8": {
+		"definition": "elementprot",
+		"x": -64,
+		"y": -256,
+		"root": false
+	},
+	"rw1dzdedmsyjt84q": {
+		"definition": "maxmana",
+		"x": -64,
+		"y": -320,
+		"root": false
+	},
+	"a6limsyrno9d0dbq": {
+		"definition": "maxmana",
+		"x": -128,
+		"y": -256,
+		"root": false
+	},
+	"ubpo4dkr0vp68z07": {
+		"definition": "maxmana",
+		"x": 128,
+		"y": -256,
+		"root": false
+	}
+}

@@ -1,0 +1,242 @@
+{
+	"damnhroaesw3fx6p": {
+		"definition": "root_fire_spell_power",
+		"x": -64,
+		"y": 0,
+		"root": true
+	},
+	"pj28t8w159hgj681": {
+		"definition": "spellpower",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"1j3jbt5h8y6mj7wj": {
+		"definition": "cooldown",
+		"x": -128,
+		"y": -64,
+		"root": false
+	},
+	"q1l033cjhup38pem": {
+		"definition": "spellpower",
+		"x": -64,
+		"y": -64,
+		"root": false
+	},
+	"bpytevzf3giwlmzj": {
+		"definition": "maxmana",
+		"x": 64,
+		"y": -64,
+		"root": false
+	},
+	"4bbjqi2qy409kgq6": {
+		"definition": "magicprot",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"f9cu0lab17wxt1fd": {
+		"definition": "root_fire_magic_resistance",
+		"x": 64,
+		"y": 0,
+		"root": true
+	},
+	"3wy2sdoforurme5y": {
+		"definition": "magicprot",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"65wnfbgg91xilbod": {
+		"definition": "elementprot",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"xeuy0opf9lavdpca": {
+		"definition": "cooldown",
+		"x": 64,
+		"y": -128,
+		"root": false
+	},
+	"fdcub5z878qozyp9": {
+		"definition": "maxmana",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"ne7aviaczax416ap": {
+		"definition": "elementpower",
+		"x": -64,
+		"y": -128,
+		"root": false
+	},
+	"isf75nrnxyjiatlg": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"k2t9jwx7f5ia1zpe": {
+		"definition": "spellpower",
+		"x": -128,
+		"y": 64,
+		"root": false
+	},
+	"ch1abeejcctq9064": {
+		"definition": "elementpower",
+		"x": -64,
+		"y": 64,
+		"root": false
+	},
+	"dajvemczg6lhtnop": {
+		"definition": "root_magic_resistance",
+		"x": 0,
+		"y": 64,
+		"root": true
+	},
+	"sgpb7nmmejfutk8p": {
+		"definition": "magicprot",
+		"x": 64,
+		"y": 64,
+		"root": false
+	},
+	"4zlywq1m94je42ef": {
+		"definition": "cooldown",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"h8thi9sn8yirmuju": {
+		"definition": "elementprot",
+		"x": 128,
+		"y": 128,
+		"root": false
+	},
+	"4l09h3sc5le5tki4": {
+		"definition": "elementpower",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"n1zcq8frqe0hy2j2": {
+		"definition": "cooldown",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"cp0f65edfc2ra98z": {
+		"definition": "maxmana",
+		"x": -64,
+		"y": 128,
+		"root": false
+	},
+	"671i2ev8q8oyrycm": {
+		"definition": "elementprot",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"z2b7eluz7e5my594": {
+		"definition": "root_spell_power",
+		"x": 0,
+		"y": -64,
+		"root": true
+	},
+	"zcp0qghobks7t5ib": {
+		"definition": "cooldown",
+		"x": 0,
+		"y": 192,
+		"root": false
+	},
+	"gvmbdc3of9d9ar0x": {
+		"definition": "elementpower",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"z50i699fzatay8j6": {
+		"definition": "elementprot",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"52xuokwqnr5gkkvf": {
+		"definition": "elementpower",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"ucppksqcy6vtvhef": {
+		"definition": "elementpower",
+		"x": -256,
+		"y": 0,
+		"root": false
+	},
+	"6t2nz1y1zy7t8i6q": {
+		"definition": "elementprot",
+		"x": 256,
+		"y": 0,
+		"root": false
+	},
+	"ct00971v9ivspzuc": {
+		"definition": "elementprot",
+		"x": -256,
+		"y": -64,
+		"root": false
+	},
+	"bby3gm6yj0riz9y8": {
+		"definition": "elementpower",
+		"x": -256,
+		"y": 64,
+		"root": false
+	},
+	"1acghhmz4sd65a0a": {
+		"definition": "elementpower",
+		"x": 256,
+		"y": -64,
+		"root": false
+	},
+	"qd9ii3o6p8ynwil5": {
+		"definition": "elementprot",
+		"x": 256,
+		"y": 64,
+		"root": false
+	},
+	"bcdt6l6qhzzcfemj": {
+		"definition": "magicprot",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"hvk76s0dlxo7l4n2": {
+		"definition": "spellpower",
+		"x": -320,
+		"y": 0,
+		"root": false
+	},
+	"3q71cc7n5813ikoy": {
+		"definition": "maxmana",
+		"x": -320,
+		"y": 64,
+		"root": false
+	},
+	"u8jrurb85mq8gvcm": {
+		"definition": "elementpower",
+		"x": -384,
+		"y": 0,
+		"root": false
+	},
+	"a8hg866vtffyvvkh": {
+		"definition": "maxmana",
+		"x": 320,
+		"y": -64,
+		"root": false
+	},
+	"fkaqfip7jjhwznvn": {
+		"definition": "elementprot",
+		"x": 384,
+		"y": 0,
+		"root": false
+	}
+}
